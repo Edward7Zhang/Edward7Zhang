@@ -1,5 +1,1 @@
-<p align="left">
-  <a href="https://github.com/Edward7Zhang">
-    <img src="https://github-readme-stats.vercel.app/api?username=edward7zhang&count_private=true&show_icons=true&hide=contribs&include_all_commits=true&theme=default" />
-  </a>
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=edward7zhang&show_icons=true&count_private=true&theme=gotham" alt="edward7zhang" />
